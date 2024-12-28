@@ -4,8 +4,8 @@
   </a>
 </div>
 
-[![Warm up](https://img.shields.io/badge/warm--up-1-teal)](https://github.com/nnfunny/type-challenges/tree/main/warm-up) <br/>
-  [![Hello World](https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal)](https://github.com/namvnngu/coding-problems/blob/main/typescript-challenges/type-challenges/warm-up/hello-world.ts)
+[![Warm up](https://img.shields.io/badge/warm--up-1-teal)](./warm-up) <br/>
+  [![Hello World](https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal)](./warm-up/hello-world.ts)
 
 ![Easy](https://img.shields.io/badge/easy-13-7aad0c) <br/>
   ![Pick](https://img.shields.io/badge/-Pick-7aad0c)
